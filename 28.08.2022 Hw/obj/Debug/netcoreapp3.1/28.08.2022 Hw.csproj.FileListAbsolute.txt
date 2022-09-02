@@ -1,0 +1,14 @@
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\bin\Debug\netcoreapp3.1\28.08.2022 Hw.exe
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\bin\Debug\netcoreapp3.1\28.08.2022 Hw.dll
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\bin\Debug\netcoreapp3.1\28.08.2022 Hw.deps.json
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\bin\Debug\netcoreapp3.1\28.08.2022 Hw.runtimeconfig.json
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\bin\Debug\netcoreapp3.1\28.08.2022 Hw.runtimeconfig.dev.json
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\bin\Debug\netcoreapp3.1\28.08.2022 Hw.pdb
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.csproj.AssemblyReference.cache
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.AssemblyInfoInputs.cache
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.AssemblyInfo.cs
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.csproj.CoreCompileInputs.cache
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.dll
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.pdb
+C:\Users\Gunay Asgarkhanli\source\repos\28.08.2022 Hw\28.08.2022 Hw\obj\Debug\netcoreapp3.1\28.08.2022 Hw.genruntimeconfig.cache
